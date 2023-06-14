@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sohailraufi
-- 👀 I’m interested in Progamiing Langugage
-- 🌱 I’m currently learning Pyhton Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Frontend Web Development. ...
+
 
 <!---
 sohailraufi/sohailraufi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
