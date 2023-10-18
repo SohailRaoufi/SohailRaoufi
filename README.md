@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohailraufi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Web Development. ...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python Programming Language. ...
 
 
 <!---
