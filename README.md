@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohailraufi
+- 👋 Hi, I’m @sohailraoufi
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python Programming Language. ...
 
