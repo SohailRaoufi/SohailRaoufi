@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-2b66c590dc.gif">
+<img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-2b66c590dc.gif](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Ahmad Sohail Raoufi</h1>
 <h3 align="center">A passionate python developer</h3>
 
