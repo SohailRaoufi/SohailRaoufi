@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Backend , Problem Solving**
 
-- ⚡ Fun fact **I think i'm funnny.**
+- ⚡ Fun fact **I think i'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
