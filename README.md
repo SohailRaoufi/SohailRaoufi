@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Backend Development Using Python.**
 
-- 💬 Ask me about **Backend , Problem Solving**
+- 💬 Ask me about **Backend , Problem Solving and Databases**
 
 - ⚡ Fun fact **I think i'm funny.**
 
