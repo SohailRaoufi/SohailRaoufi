@@ -1,10 +1,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Ahmad Sohail Raoufi</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 
 
-- 🌱 I’m currently learning **Backend Development Using Python.**
+- 🌱 I’m currently learning **Backend Development.**
 
 - 💬 Ask me about **Backend , Problem Solving and Databases**
 
